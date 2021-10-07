@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161318840625",
+    "project_id": "chat1-937a8",
+    "storage_bucket": "chat1-937a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161318840625:android:9a672c5f4596ff9ea0a810",
+        "android_client_info": {
+          "package_name": "com.example.vschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161318840625-oal8jg4alm3p1u2giic4kds36ks4ruef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGmTY-2_OAZdZ0N11hHz70_tsLXcUPmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161318840625-oal8jg4alm3p1u2giic4kds36ks4ruef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086444443420",
+    "firebase_url": "https://chat-fe7d8-default-rtdb.firebaseio.com",
+    "project_id": "chat-fe7d8",
+    "storage_bucket": "chat-fe7d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086444443420:android:3ca0d8eede1f6267ec8cd9",
+        "android_client_info": {
+          "package_name": "com.example.vschatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086444443420-9g3ehi9nbov3svdrrisso9hh5f9scvv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vschatapp",
+            "certificate_hash": "c583423de99b891dbce9a51d29e9b1ce2d610c85"
+          }
+        },
+        {
+          "client_id": "1086444443420-tfnar05j0h3gvj92gdbqm1hejqhvhvs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt11xGnYuRYUU9pl-ShWMimXeXl_HGOlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086444443420-tfnar05j0h3gvj92gdbqm1hejqhvhvs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
